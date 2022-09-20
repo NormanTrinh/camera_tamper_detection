@@ -1,0 +1,9 @@
+Tối:
+    video 17: Trời mưa (Detect ngon)
+
+Sáng:
+    video 18: Mưa, các frame cuối camera bị rung lắc
+    video 15: Lúc nắng lúc không
+    video 14: Trường hợp xe di chuyển khỏi vị trí cố định
+    video 10: Trường hợp thay đổi màu sắc
+    video  4: Trường hợp nắng đột ngột?
